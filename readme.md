@@ -1,11 +1,3 @@
----
-id: a5edbdd6-fca9-4c79-97db-797d5221c155
-title: readme
-tags: []
-pinned: false
-created: 2026-10-27T03:03:23.229262800+00:00
-modified: 2026-10-27T03:25:16.891819600+00:00
----
 # readme
 
 # ExtHide - para esconder arquivos em lote por meio da extensão
